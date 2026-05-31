@@ -1,0 +1,119 @@
+FUTURE INTERNS – TASK 2
+AI Content Marketing using UGC Ads
+Topic: Smart Traffic Management System
+
+==============================
+PROMPT 1: PRODUCT UNDERSTANDING
+==============================
+Act as a professional marketing strategist.
+
+Analyze this product: Smart Traffic Management System.
+
+Explain:
+1. Target audience
+2. Main customer pain points
+3. Product benefits
+4. Emotional triggers
+5. Best UGC ad angles
+6. Suitable platforms like Instagram Reels and YouTube Shorts
+
+Keep the output clear and marketing-focused.
+
+==============================
+PROMPT 2: HOOK GENERATION
+==============================
+Act as a UGC ad copywriter.
+
+Generate 10 scroll-stopping hooks for a Smart Traffic Management System.
+
+Requirements:
+- Human and natural tone
+- Suitable for Instagram Reels and YouTube Shorts
+- Focus on traffic jams, delays, pollution, fuel wastage, and ambulance delays
+- Make hooks short and attention-grabbing
+
+==============================
+PROMPT 3: UGC SCRIPT GENERATION
+==============================
+Act as a professional UGC ad creator and marketing expert.
+
+Create 3 short, high-converting UGC-style advertisement scripts for a Smart Traffic Management System.
+
+Requirements:
+- 30–45 seconds each
+- Human and natural tone
+- Strong hook
+- Mention real-world traffic problems
+- Explain AI-based smart traffic monitoring
+- Include intelligent signal control
+- Mention emergency vehicle priority
+- End with a strong CTA
+- Suitable for Instagram Reels and YouTube Shorts
+
+==============================
+PROMPT 4: CAPTION AND CTA GENERATION
+==============================
+Act as a social media marketing expert.
+
+Create Instagram and LinkedIn captions for my UGC ad campaign on Smart Traffic Management System.
+
+Include:
+- Short caption
+- Professional caption
+- Call-to-action
+- Relevant hashtags
+
+==============================
+PIKA AI VIDEO PROMPTS USED
+==============================
+
+AD 1 – PROBLEM TO AI SOLUTION
+
+Scene 1:
+Realistic cinematic vertical video of a busy Hyderabad-style Indian city road during evening rush hour, heavy traffic congestion with cars, buses, bikes, and auto rickshaws stuck bumper to bumper, glowing headlights, honking atmosphere, urban buildings, slow camera push-in, dramatic realistic lighting, 9:16, no text, no logos, no watermark.
+
+Scene 2:
+Realistic vertical video from street level showing commuters stuck at a red traffic signal, cars and bikes waiting in a long queue, tired drivers looking frustrated, fuel wastage feeling, evening city road, slow cinematic camera movement, natural realistic lighting, 9:16, no text, no logos, no watermark.
+
+Scene 3:
+Realistic cinematic vertical video of crowded Indian city traffic with visible vehicle smoke, pollution, buses and auto rickshaws stuck on the road, stressed commuters, dusty evening atmosphere, slow motion urban traffic scene, 9:16, no text, no logos, no watermark.
+
+Scene 4:
+Realistic futuristic vertical video of a smart traffic management system monitoring a busy city road, AI cameras and sensors detecting vehicles, glowing blue digital overlays showing traffic density and live road data, modern smart city feel, smooth camera pan, 9:16, no text, no logos, no watermark.
+
+Scene 5:
+Realistic vertical video of a clean modern Hyderabad-style smart city road with smooth traffic flow, organized lanes, vehicles moving safely, digital route guidance lines glowing softly on the road, bright hopeful lighting, cinematic ending shot, 9:16, no text, no logos, no watermark.
+
+AD 2 – HUMAN REEL STYLE
+
+Scene 1:
+Realistic vertical video from inside a car stuck in traffic, Indian commuter looking tired and frustrated through the windshield, red brake lights and vehicles visible outside, evening city road, natural handheld UGC-style camera movement, realistic lighting, 9:16, no text, no logos, no watermark.
+
+Scene 2:
+Realistic vertical video of a busy Indian city intersection where one side of the road is crowded with vehicles waiting at a red signal while another side is almost empty, showing inefficient signal timing, slow cinematic pan across the junction, 9:16, no text, no logos, no watermark.
+
+Scene 3:
+Realistic vertical video of a smart traffic pole with CCTV cameras and AI sensors installed near a busy Indian city road, cars and bikes moving below, subtle glowing scanning effect from the camera, modern urban background, smooth camera tilt upward, 9:16, no text, no logos, no watermark.
+
+Scene 4:
+Realistic cinematic vertical video inside a smart city traffic control room, large screens showing live road camera feeds, traffic maps, vehicle density graphs, operators monitoring city traffic, professional high-tech command center atmosphere, slow camera movement, 9:16, no text, no logos, no watermark.
+
+Scene 5:
+Realistic futuristic vertical video of a Hyderabad-style city road with smart traffic signals, connected vehicles, glowing AI sensor lines on the road, clean environment, smooth moving traffic, modern smart city technology feel, cinematic camera push forward, 9:16, no text, no logos, no watermark.
+
+AD 3 – EMERGENCY VEHICLE PRIORITY
+
+Scene 1:
+Realistic cinematic vertical video of an ambulance stuck behind cars, bikes, and buses on a crowded Indian city road, emergency lights flashing, heavy traffic congestion blocking the path, urgent serious atmosphere, slow camera movement, realistic lighting, 9:16 aspect ratio, no text, no logo, no watermark.
+
+Scene 2:
+Realistic vertical video of an ambulance waiting at a busy traffic signal while vehicles block the road, red and blue emergency lights flashing, Indian urban street, evening traffic, emotional urgent scene, slight handheld camera movement, cinematic realistic style, 9:16 aspect ratio, no text, no logo, no watermark.
+
+Scene 3:
+Realistic futuristic vertical video of a smart traffic signal detecting an approaching ambulance using AI sensors, glowing blue digital scanning waves, traffic lights preparing to change, vehicles slowing down, modern city intersection, smart traffic technology concept, 9:16 aspect ratio, no text, no logo, no watermark.
+
+Scene 4:
+Realistic vertical video of an ambulance moving quickly through a clear green corridor on a busy city road, traffic signals turning green one by one, other vehicles giving way, glowing green route line on the road, urgent but hopeful cinematic scene, 9:16 aspect ratio, no text, no logo, no watermark.
+
+Scene 5:
+Bright realistic futuristic vertical video of a clean smart city road with organized traffic, greenery, modern buildings, AI-powered traffic cameras, smooth vehicle movement, peaceful safe city atmosphere, cinematic final advertisement shot, 9:16 aspect ratio, no text, no logo, no watermark.
